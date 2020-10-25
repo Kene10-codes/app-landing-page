@@ -42,3 +42,11 @@ const interval = setInterval(() => {
     }
 }, 1000);
 
+ //typing animation  
+ var typed = new Typed(".typing", {
+    strings: ["Coming Soon", "Coming Soon"],
+    typeSpeed: 100,
+    backSpeed: 60,
+    loop: true
+});
+

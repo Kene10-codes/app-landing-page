@@ -116,6 +116,11 @@ body {
         width: 80%;
         padding: 10px;
     }
+    .countdown div:nth-child(4){
+        display: block;
+        width: 80%;
+        padding: 10px;
+    }
      
 }
 
